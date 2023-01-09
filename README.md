@@ -7,7 +7,7 @@ This app is a translation app which is made with fun translations API as part of
 ## Hosted on
 Netlify 
 ## Website Link
-
+https://yoda-speaks-webapp.netlify.app/
 
 ### Home Page
-<img width="862" alt="image" src="">
+<img width="862" alt="image" src="yoda-speaks.PNG">
